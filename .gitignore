@@ -1,0 +1,10 @@
+# Ambientes Virtuais
+venv/
+env/
+
+# Ficheiros temporários do Python e Streamlit
+__pycache__/
+.streamlit/
+
+# Sistema Operativo
+.DS_Store
