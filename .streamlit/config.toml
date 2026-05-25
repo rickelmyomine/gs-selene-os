@@ -1,0 +1,15 @@
+[theme]
+# Cor de destaque principal (Azul Cyan futurista para botões e seletores)
+primaryColor = "#00e5ff"
+
+# Cor de fundo principal (Azul muito escuro, quase preto - "Deep Space")
+backgroundColor = "#070B14"
+
+# Cor de fundo secundária (Para a barra lateral e fundos de gráficos)
+secondaryBackgroundColor = "#111826"
+
+# Cor do texto (Cinza claro para não cansar a vista e dar alto contraste)
+textColor = "#E2E8F0"
+
+# Fonte estilo "terminal" para dar a sensação de um sistema de engenharia
+font = "monospace"
